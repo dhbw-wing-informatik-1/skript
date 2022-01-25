@@ -1,0 +1,283 @@
+ Informatik 1 36 39 -> Verhältnis von Inhalt und Zeit ist schwierig!
+	* Grundlagen der Informatik
+	* Kernanwendungen der IuK in den Unternehmen
+	* Aktuelle Themen der IuK im Unternehmens- und im gesellschaftlichen Kontext
+	* Algorithmen, Programm- und Datenstrukturen
+	* Problemlösung mit modernen Programmier-/Skriptsprachen
+ 
+Fragen an Dr. Homann:
+	* Semester 3+4+5+6?
+	* Mathe Inhalte?
+	* Prüfungsleistung? Projektarbeit doch möglich`?
+	* Konzepte beibringen, Programmierkonzepte (Many 
+		* Schwer Beizubringen, Viel Autodidaktisch, 
+	* BIM MANAgern, Zustandbasierter Datenhaltung und Eventsourcing, Immutability and durable Data
+	* Rust
+	* Kontrollstrukturen:
+		* Rekursion
+		* Selbstreferenzierung
+		* Vollständige induktion
+		* Schleifen /Wiederholungen / Angewandte wiederholung (brut force)
+ 
+Inhalte:
+	* Sprache im allgemeinen, Unterschiedliche Bedeutung in unterschdielichen Disziplinen
+	* Einfachere Programmiersprache SCEEM?
+	* How to design Programms? Buch:  https://htdp.org/2021-11-15/Book/index.html
+	* Import Export Excel, Hands On Excel, Fehler
+	* https://www.deinprogramm.de/
+	* C++ gut in der Lehre für Philipp
+	* Problemlösung
+	* OSI
+	* Von SCADA und SPS zu Edge Computing AB SEITE 115
+	* Branchentypische IT Anwendungen.
+	* Unterschiede Betreibssysteme Was sind Probleme und unterschiede? Containerisierung, ERP
+	* IT Umgebung DHBW
+	* Technik Skepsis
+	* IOT
+	* Netzwerke
+	* Gesellschaftliche Politische auswikungen
+	* Bit Byte Shit
+	* Zahlensysteme Bin, Hex…
+	* Boolsche Algebra
+	* Datentypen
+	* Datenstrukturen
+	* Objektorientierte Programmierung, Funktionale Programmierung
+	* Deklarative & Imperative Sprachen
+	* Compiler
+	* Gegensätzliche Richtungen Zeigen
+ 
+Alte Folien:
+	* 1.2 Streichen
+	* 140 streichen
+  
+Voraussetzung für Vorlesung:
+·         PC
+·         Internet
+·         Bücher:
+ 
+  
+Tobi:
+·         Funktionaler Developer
+·         Dein Programm
+·         C, C++, PHP, Jscript, Delphi, Java, Clojure
+·         BIM, FM durch Start Up
+ 
+Philipp:
+·         Freiberuflicher Softwareentwickler, C++
+·         Humboldt Uni, VL Algo, theoretische Informatik.
+·         Dreamcast
+·         Basic, C++, C, Java, JS, Rust, 
+ 
+ 
+CAFM (Computer Aided Facility Management)
+	* Planon
+ 
+ 
+Zielegruppe:
+	* Wirtschftsingenieure Facility Managment
+	* Statik
+	* Bauingenieure mit Wirtschaft
+	* Datenmodellen von Gebäudem
+	* Instandhaltung
+	* GLT BUS Systeme, Mbus, KNX, 
+	* Viele Properitäre systeme
+	* Service Fokus, Dashboards, Statistik
+	* BIM
+	* Generalisten
+ 
+ 
+Asset Management Logisik Fond Manager
+Property management mehrere  Häuser
+FM operativ einzelnes Gebäude
+ 
+Youtube:
+Vorschlag / Playlist zur Auswahl von Sebastian :
+	https://urldefense.proofpoint.com/v2/url?u=https-3A__youtube.com_playlist-3Flist-3DPLRCnoGMSqMnRux9jX1QzGI3wM6uI4rRvj&d=DwIFaQ&c=jozbAXBGpZCeJmn-Q9SThA&r=nmKhgKwDkAP28hzcnim3cIqM4aB6SlqOFowxpUMXC1s&m=qxgW_YiAvzC7nLBzYmrsnFz9Q-SkstrMIzja0AHte48JM_MkOvfFK7yO4IZFj-iT&s=AczBJDpHcjlodktvDSq6lKm_tB-0OCz3OHPBhoC5yaw&e=
+	
+Vorschlag Philipp:
+
+Vorschlag Tobias:
+    
+Finale Festlegung der Videos:
+https://www.youtube.com/watch?v=_A1z4zzjdeE&t=7s (https://bobkonf.de/2020/slides/miller.pdf)
+
+Vorhandenen Content:
+	* C (Phillipp)
+	* Dein Programm: https://www.deinprogramm.de/
+	* How to Design Programs:
+		* https://htdp.org/2021-11-15/Book/index.html
+		* https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/featured
+	* Accelerate: 
+		* https://www.youtube.com/watch?v=RBuPlMTXuFc
+		* https://www.youtube.com/watch?v=y0M9Z_zSmPo
+
+
+	1. Grundlagen der Informatik (TBD ->)
+	2. Kernanwendungen der IuK in den Unternehmen -> Excel
+	3. Aktuelle Themen der IuK im Unternehmens- und im gesellschaftlichen Kontext
+Die Kernanwendungen in Unternehmen machen diese oft zu sehr Abhängig. Zusammen mit zu wenig langfristiger Investition führt dies zu einer "schlecth laufenden" Digitalisierung.
+	1. Digitalisierung in Deutschland/Europa:
+		* https://www.manager-magazin.de/politik/digitalisierung-deutschland-in-ranking-auf-vorletztem-platz-in-europa-a-f0a7ef16-8903-4d9a-90c8-f72d732b8b9c
+		* https://www.ratbacher.de/blog/digitalisierung-stand-deutschland/?dicbo=v1-edb7f39167a1318093978d0d621dc73b-008e622b20fb27a994c79786290efe3c1d-mfrggmrsgm2gkljqmmydmljuguztaljygrsdgljsgmzgcyjsme2tsmtcmq&obOrigUrl=true&ratbacher-native-jan22-desktop=&cHash=341696ce35a5d3c4e7e7f734c77b86d8
+		* https://www.kfw.de/PDF/Download-Center/Konzernthemen/Research/PDF-Dokumente-Digitalisierungsbericht-Mittelstand/KfW-Digitalisierungsbericht-2020.pdf
+	2. Softwareentwicklung als Kompetenz von Unternehmen
+		* Wasserfall -> Iterative entwicklung -> R & D Prozess
+		* Agile Softwareentwicklung und Lean Software Movement
+		* DevOps
+		* Shift Left on Security
+		* https://itrevolution.com/the-phoenix-project/
+		* https://itrevolution.com/the-unicorn-project/
+		* https://itrevolution.com/accelerate-book/
+		* How to Design Programs
+		* Technikskepsis und Datenschutz
+	3. Softwareentwicklung im Rahmen von FM (TBD -> )
+	1. Algorithmen, Programm- und Datenstrukturen
+	2. Problemlösung mit modernen Programmier-/Skriptsprachen
+
+	* Dateisysteme
+	* Klassifizierung mit Beispiel DIN276
+	* Technikskepsis und die Rolle von Datenschutz für und in Europa
+
+Tage:
+    17.01. 21:00- ...
+	* Organisatorisches (Folien erstellen/ Zusammen erstellen)
+    
+    6h
+    28.1. 9:00-12:00 (Vorbereitung am 24.01. Abends)
+    -Einleitung Vorstellung (Alle) (Philipp, Tobias, Sebstian)
+    Vorstellung Studenten:
+        - Name, Alter, Was interessiert mich an der Informatik?
+        - Wer kommt von deinem FM DL. Wer Kommt von der Öffentlichen Hand? Land? Bund?
+        - Schon einmal programmiert?
+        - Schon einmal einen Algorithmus verwendet?
+	        - Verweis auf Routinen und Checklisten
+        - Computer selber zusammengebaut?
+        - IOT genutzt?
+        - Excel Formel mit mehr als 2 Bedingungen geschrieben?
+        - Digital Ready?
+    
+    Was wir hier machen:
+        - Lifehacks IT
+          - Etherpad
+          - Pandoc/Latex
+        - Sprache der IT Kennenlernen (Jargon)
+        - Wir beginnen mit einem Video, das den Mangel an technischen Fachkräften schön aufzeigt
+        
+        
+        
+        
+    Was wir nicht machen:
+      - Wir bilden euch hier nicht zum Programmierer aus, machen aber den Anfang und erarbeiten die ersten Kapitel aus deinprogramm.de zusammen hier in der Vorlesung. Macht das aber gerne im Selbstudium: deinprogramm.de
+            
+            
+    
+    
+    
+    
+    
+    Youtube:
+Vorschlag / Playlist zur Auswahl von Sebastian :
+	https://urldefense.proofpoint.com/v2/url?u=https-3A__youtube.com_playlist-3Flist-3DPLRCnoGMSqMnRux9jX1QzGI3wM6uI4rRvj&d=DwIFaQ&c=jozbAXBGpZCeJmn-Q9SThA&r=nmKhgKwDkAP28hzcnim3cIqM4aB6SlqOFowxpUMXC1s&m=qxgW_YiAvzC7nLBzYmrsnFz9Q-SkstrMIzja0AHte48JM_MkOvfFK7yO4IZFj-iT&s=AczBJDpHcjlodktvDSq6lKm_tB-0OCz3OHPBhoC5yaw&e=
+	
+	https://www.youtube.com/watch?v=0rb9CfOvojk
+	
+	https://www.youtube.com/watch?v=B5iRABcC5-Q
+	
+Vorschlag Philipp(TBD):
+
+Vorschlag Tobias(TBD):
+    
+Finale Festlegung der Videos:
+	1. https://www.youtube.com/watch?v=_A1z4zzjdeE&t=7s (Slides: https://bobkonf.de/2020/slides/miller.pdf)
+	2. ?!?
+    
+    
+    -Downloads: DrRacket https://download.racket-lang.org/
+    -Buch: https://github.com/deinprogramm/schreibe-dein-programm/releases/download/2021-08-20/i1.pdf
+    -Prüfungsliestung (Präsentation)
+    
+    Vorkenntnisse Abfrage : https://etherpad.wikimedia.org
+    - Wer hat schon einen Computer auseinander und wieder zusammen geschraubt?
+    - Wer ein Handy?
+    - Wer hat schonmal ein Programm geschrieben?
+    
+    
+    Was interessiert euch:
+    - Themenspeicher https://etherpad.wikimedia.org/
+    
+    Youtube Video -> Cooler Vortrag zur Einführung mit anschl. Diskussion (TBD welches Video)
+
+    28.1. 13:00-16:15 (Philipp)
+	* Zahlensysteme: Dezimal, Binärsystem, Octa, Hexa
+	* Was ist ein Algorithmus -> Definition über Rechenvorschrift mit Schritten (schriftliches Rechnen)
+		* https://www.mathsisfun.com/numbers/multiplication-long.html
+		* Visualisierung Quicksort/Bubble-Sort auf Youtube (Definition einer Ordnung)
+	* Programmiersprachen -> Es gibt super viele, wäle eine Sprache in der du dein Problem
+	* Chomsky Hierarchie
+	* Ansage: Vorbereitung für Nächste Vorlesung: 2 Alte Vorlesungen als PDF Lesen.
+	* Wir Nehmen die Vorlesung auf
+    
+    6h 
+  Fr  4.2. 9:00-12:00
+	* Grundlagen (TBD -> Querbezüge zu DeinProgramm)
+	* Kernanwendungen+Netzwerke -> alte Vorlesung (Sebastian)
+	* 
+Fr   4.2. 13:00-16:15
+	* 0 oder 1 wo fangen wir an zu zählen?-> Bei 0! -> 
+	* Kapitel 0 aus DeinProgramm. (Tobi)
+	* Github
+
+    
+Mo    3h 
+    7.2. 9:00-12:00
+	* Kapitel 1 (Tobi) https://www.deinprogramm.de/sdp/
+	* Themenliste Endpräsentationen
+		* Thema aus der Vorlesung weiter ausführen, wie z.B.
+			* einfacher algorithmus
+			* weiteres kapitel / abschnitt aus dem Buch
+    
+    3h
+Fr    11.2. 13:00-16:15
+	* Kapitel 2 Philipp
+    
+    6h
+Fr    18.2. 9:00-12:00
+	* Kapitel 3 (Tobi)
+Fr    18.2. 13:00-16:15
+	* Kapitel 4 (Tobi)
+
+22.02. Themenliste Endpräsentationen final ausfüllen (in MS Teams)
+
+    3h
+    28.2. 9:00-12:00 (Tobi)
+	* Kapitel 5 und Ausblick zu 6
+    3h
+    28.2. 13:00-12:00 (Philipp)
+	* Moderne Skriptsprache: Javascript oder Lua oder Ruby
+	* Übertragen einzelner Konuzepte aus Racket in Skriptsprache
+
+
+    
+    6h
+    01.03. 9:00-12:00
+    - Vorbereitung Präsentation (Alle)
+	    Arbeitsaufgabe: 
+	Algorythmus der nicht Bubble Sort Ist
+	Grundlagen der Informatik
+	* Kernanwendungen der IuK in den Unternehmen
+	* Aktuelle Themen der IuK im Unternehmens- und im gesellschaftlichen Kontext
+	* Algorithmen, Programm- und Datenstrukturen
+	* Problemlösung mit modernen Programmier-/Skriptsprachen
+
+	- Keine Form--> Weil IT ;)
+	3er Gruppen
+	10-12 Min.
+	
+	
+    25.2. 13:00-16:15
+    - Präsentation (Alle)
+
+
+
+
+
