@@ -6,6 +6,7 @@ Keine Fotos oder Screenshots von diesen Folien nötig ;).
 Wir lassen euch ein PDF zukommen.
 
 Bei Fragen Handzeichen oder auch im Chat.
+Versteht ihr alle gut Englisch?
 
 ## Wer sind wir (Philipp, Sebastian und Tobias)
 
