@@ -27,6 +27,7 @@ Bevor wir jedoch mit dem Buch beginnen schaffen wir die Grundlagen.
 1. Navigiert im Browser auf: github.com
 2. Klickt oben rechts auf "Sign up"
 3. Folgt den Anweisungen und erstellt euch einen GitHub Account
-* Vorwort im Buch lesen
+* Das Buch lesen
+Vorwort, dann Kapitel 0 und Kapitel 1 bis einschließlich 1.3.
 * Rätselfrage bis zum nächsten Termin
 Warum fängt "Schreibe Dein Programm" mit Kapitel 0 an und nicht etwa mit 1?
