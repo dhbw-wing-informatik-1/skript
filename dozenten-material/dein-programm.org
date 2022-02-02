@@ -1,0 +1,32 @@
+#+TITLE: Dein Programm & Github
+#+LANGUAGE: de
+
+* Was ist DeinProgramm?
+DeinProgramm ist ein Projekt zur Anfängerausbildung im Programmieren,
+das seit 1999 an der Universität Tübingen und anderswo entwickelt wird.
+Die entstandenen didaktischen Konzepte, Software und
+Materialien wurden in zahlreichen Anfängerausbildungen erprobt und
+kontinuierlich verbessert.
+* Was wollen wir erreichen?
+Leider haben wir in dieser Vorlesung nicht die Zeit das ganze Buch duchzuarbeiten.
+Wir wollen euch aber einen erprobten Einstieg in die Welt des Programmierens geben.
+Wir wollen euch aber vor allem dabei helfen wichtige Fähigkeiten an euch weiter zu entwickeln:
+- kritisches Lesen
+- analytisches Denken
+- kreative Synthese
+- und Liebe fürs Detail
+Bevor wir jedoch mit dem Buch beginnen schaffen wir die Grundlagen.
+* DrRacket Installation
+1. Navigiert im Browser auf: https://download.racket-lang.org/
+2. Stimmt das Betriebssystem, das hinter "Platform:" mit eurem Betriebssystem überein?
+3. Falls nein wählt euer Betriebssystem aus. Falls ja springt zum nächsten Punkt.
+4. Klickt auf den "Download-Knopf"
+5. installiert DrRacket
+6. Meldet euch bei Problemen, Sebastian und ich helfen euch bei der Installation.
+* Github Accounts
+1. Navigiert im Browser auf: github.com
+2. Klickt oben rechts auf "Sign up"
+3. Folgt den Anweisungen und erstellt euch einen GitHub Account
+* Vorwort im Buch lesen
+* Rätselfrage bis zum nächsten Termin
+Warum fängt "Schreibe Dein Programm" mit Kapitel 0 an und nicht etwa mit 1?
