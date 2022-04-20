@@ -1,0 +1,102 @@
+#+title: Inhalte
+
+* TODO inhalte fertig ausgestalten
+** TODO wichtige Quelle: https://www.iwkoeln.de/fileadmin/user_upload/Studien/Gutachten/PDF/2019/Gutachten_Data_Governance_DEMAND_Template.pdf
+* TODO Folien basteln
+
+* Interactive lecture, split up in two parts. Each 40 minutes long.
+** Data Awareness
+*** What do we mean with data awareness?
+**** TODO folgendes Vervollstöändigen und am Ende nochmal mit in die Learnings packen
+Awareness regarding security, quality,....
+*** Data Governance
+**** TODO folgendes übersetzen
+Die Digitalisierung mit Entwicklungen wie Künstlicher Intelligenz, Cloud Computing oder dem
+Internet of Things bietet auf Basis von Daten innovative Wertschöpfungsmöglichkeiten für Unternehmen. Aus diesem Grund steigt bei Unternehmen die Bereitschaft, Daten als eine wichtige
+Ressource wahrzunehmen. Bereits 2016 gaben 80 Prozent der mittleren und großen Unternehmen in Deutschland an, dass die relevanten Entscheidungen in ihren Unternehmen zunehmend
+auf Erkenntnissen aus Datenanalysen basieren (Erwin et al., 2016).
+*** Different data governance worldwide
+**** Different culture and tradition regarding data has emerged to different laws in different countries or unions
+***** China
+CHINA
+
+Recently, China approved Personal Information Protection Law (PIPL), inspired by the European model for: 
+
+the territorial application: the discipline applies to personal data processing carried out outside China, provided that the purpose of the processing is: 
+to provide products or services to individuals in China,
+to "analyse" or "evaluate" the behaviour of individuals in China; or 
+for other purposes specified by laws and regulations. 
+However, the general scope is broader because Chinese authorities enjoy broad discretion about identifying additional circumstances of privacy enforcement.
+
+Provision of legal basis as in the GDPR.
+Chinese law provides for narrower conditions of lawfulness than European law while reserving greater discretion to the data protection authority. Chinese law does not include the legal basis of legitimate interest in data processing.
+
+For data transfers to foreign countries, Chinese law provides for restrictions, so much so that in some cases, transfers are permitted only with the authorization of the regulatory authorities.
+There is a set of data subjects' rights very similar to those provided by the GDPR.
+About the penalty apparatus, the fine can be up to 50 million Yuan or 5% of an organization's annual revenue for the previous financial year, in addition to potential civil and criminal liability for companies and penalties of up to 1 million Yuan for executives. Furthermore, we must read China's law in conjunction with the other two legislation, the Cybersecurity Law, effective since June 1, 2017. The second is the Data Security Law (DSL), effective September 1, 2021. China has adopted regulations relating not only to the protection of personal data but also to the protection of non-data. The regulations have two relevant purposes:
+
+the first relates to the cyber security of data
+the second is the protection of the digital sovereignty of the People's Republic of China!
+This second aspect and the restrictions on data transfers to countries outside China suggest that the Chinese government aims to preserve its sovereignty from foreign interference.  
+***** USA
+The concept of "privacy" is a child of the American culture that already in 1890 theorized the so-called "right to be let alone. So, it seems controversial that today there is no federal law on privacy in the USA.
+
+The US approach is therefore closely related to the protection of the private sphere of individuals, but this protection has not evolved into the recognition of a law that also gives individuals the right to 'control' the circulation of their data.
+
+This regulatory 'absence' becomes relevant in the European context when a data Controller transfers data from Europe to the US. The point of collision is the FISA 702 regulation, which allows US authorities extensive access to data (even of European citizens) processed by providers of e-communication services, for control and counter-terrorism purposes. Europe considers this legislation excessively invasive, a gateway of potential large-scale monitoring of individuals and therefore in total contrast with the principles of the GDPR. For this reason, data transfers to entities subject to FISA 702 are no longer considered lawful and require careful assessments by European data controllers.
+
+For this reason, data transfers to entities subject to FISA 702 are no longer considered lawful and require careful assessments by European data controllers.
+
+In the healthcare field, the USA adopted in 1996 the Health Insurance Portability and Accountability Act (HIPAA). It's a federal law that defines the requirements for the treatment of health data of private individuals. Senators have recently introduced the Health Data Use and Privacy Commission Act to modernize health data use and privacy policies. This legislation is now inadequate for current technologies (apps and wearable devices) because it covers interactions between doctor and patient but does not protect health data patients record on those tools – potentially putting the information at risk. Just last September, the U.S. Federal Trade Commission declared that connected devices and health apps that use or collect consumer health information must notify the data breach to users, providing potential penalties of up to $43,792 per day.
+*** Quick Research Question: What is the approach to data protection in europe? (10 min)
+***** Answer
+EUROPE
+
+The entry of EU Regulation 2016/679 on data protection has allowed Europe to overcome many asymmetries created by different national regulations. 
+
+The set of rules outlined in the new Regulation has provided Europe with the tools to facilitate the circulation of information by adapting to the evolution of technologies while remaining 'human-centric'. The Regulation aims to protect the rights and freedoms of individuals and provides them with the means to exercise active and proactive control over their data.
+
+The essential points of the legislation are: 
+
+The principle of accountability, whereby Data Controllers are responsible for their own choices regarding data protection and must at the same time be able to demonstrate their level of compliance;
+risk approach, whereby there isn't a "to-do list" to protect data, but the Data Controller must carefully assess the risks to individuals and design a data protection system appropriate to those risks. 
+*** Data in the context of Facility Management? (Venn Diagram with three circles that overlap in the middle)
+**** TODO folgendes ausformulieren, nur einige Beispiele geben und dann Studis nach Besipielen aus ihren Use-Cases fragen und bei Bedarf Kategorien vervollständigen
+- Building Data, like:
+  - containing personal Data
+  - not containing personal Data
+  - Plans about the building, like 2D-, 3D-Plans or BIM-Models like the Metropolia Model
+  -
+- Operation Data, like:
+  - Opening times
+  - Maintenance data
+  - building automation data like SCADA (Supervisory control and data acquisition in industrial buildings)
+    - Breaches/Worms like Stuxnet
+- Can contain or associate with personal data.
+  - What is personal Data in the terms of the GDPR
+    - https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-personal-data_en
+  - Examples:
+    -
+**** Frage ans Publikum: In welche der folgenden Kategorien gehören die Daten eurer Use-Cases
+**** Frage ans Publikum: Gibt es Personal Data in euren Use-Cases?
+*** Who "owns" this Data?
+- The building data is generally owned by the owner of the building, but there are exceptions!
+*** data(-base) architecture as an aspect of Data Governance
+- structuring data
+- version data
+- data quality assurance
+** THE GDPR
+- To begin with, GDPR gives a direct definition of what personal data is: “anything that relates to an identifiable, living individual whether it actually identifies them or makes them identifiable”.
+  https://www.scrypt.media/2019/04/03/when-gdpr-is-not-enough-who-owns-the-data/ (USE AS SCRIPT)
+  https://de.wikipedia.org/wiki/Verletzung_des_Schutzes_personenbezogener_Daten
+** Ways to remove personal information in data
+** Examples of Frameworks working with personal data in the context of the gdpr
+*** TODO Am ende dieses Parts ein Framework aussuchen, dass die Studis zur Analyse der Daten der Use-Cases nutzen sollen
+*** TODO vervollständigen
+- https://medium.com/alpin-io/top-10-gdpr-frameworks-ec5ad4bfdeab
+- Pseudonymisation
+- Anonymisation
+- self sovereign identities
+** What should you take home from this?
+**** TODO folgendes vom Anfang übernehmen
+- Be aware of your Data!
