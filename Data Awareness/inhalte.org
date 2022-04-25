@@ -1,10 +1,13 @@
 #+title: Inhalte DATA AWARENESS/GOVERNANCE
 
 * TODO inhalte fertig ausgestalten
-** TODO wichtige Quelle: https://www.iwkoeln.de/fileadmin/user_upload/Studien/Gutachten/PDF/2019/Gutachten_Data_Governance_DEMAND_Template.pdf
-* TODO Folien fertig basteln: https://docs.google.com/presentation/d/14_v7U-D1xEjMiZZgRLWhZYb3O4tT5v_y/edit#slide=id.p1
+** TODO wichtige Quelle:
+https://www.iwkoeln.de/fileadmin/user_upload/Studien/Gutachten/PDF/2019/Gutachten_Data_Governance_DEMAND_Template.pdf
+* TODO Folien fertig basteln:
+https://docs.google.com/presentation/d/14_v7U-D1xEjMiZZgRLWhZYb3O4tT5v_y/edit#slide=id.p1
 * TODO Balanced Scorecard als Ergebnis der Gruppenarbeit, oder so ähnlich. Erstmal Balanced Scorecard anschauen.
-* TODO am ende auf Github pushen (https://github.com/dhbw-wing-informatik-1/skript/blob/master/Data%20Awareness/inhalte.org)
+* TODO am ende auf Github pushen
+https://github.com/dhbw-wing-informatik-1/skript/blob/master/Data%20Awareness/inhalte.org
 * KEYWORDS
 - Takeaway
 - TODO
