@@ -5,7 +5,7 @@
 * TODO Folien basteln
 * TODO am ende auf Github pushen (https://github.com/dhbw-wing-informatik-1/skript/blob/master/Data%20Awareness/inhalte.org)
 
-* Interactive lecture, split up in two parts. Each 40 minutes long.
+* Interactive lecture, 45 minutes
 ** Data Awareness
 *** What do we mean with data awareness?
 **** TODO folgendes Vervollstöändigen und am Ende nochmal mit in die Learnings packen
