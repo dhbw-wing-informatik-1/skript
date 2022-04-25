@@ -15,16 +15,16 @@
 The Digitalization offers a variety of opportunities for all types of organisations. Developments such as artificial intelligence, cloud computing or the Internet of Things are only the most recent examples. At the heart of all those opportunities lies data since every program is a data processine machine. Those are entangled through the networks of the world. For this reason, organisations are increasingly willing to perceive data as an important resource. For Example in 2016, 80 percent of medium-sized and large companies in Germany stated that relevant decisions in their companies are based on insights from data analyses. (Erwin et al., 2016)
 
 ** 2 What do we mean with data awareness?
-**** Data Awareness means being aware of the form and structure data is stored, processed or communicated, since all use of data is either through storage and/or processing  and/or communication.
-*** 3 What do we mean with data governance?
+*** Data Awareness means being aware of the form and structure data is stored, processed or communicated, since all use of data is either through storage and/or processing  and/or communication.
+** 3 What do we mean with data governance?
 Despite the increasing importance of data for companies and the resulting need for data data governance, there is no single definition of data governance. Weber et al. (2009) and Otto (2011, 47) present data governance as a set of company-wide frameworks for assigning decision rights and responsibilities with regard to the use of data in the company. For the Data Management Association International (DAMA a non-profit global association of professionals dedicated to the advancement of information and data management concepts and practices) data governance also includes planning, monitoring, and enforcing directive rights and controls (Brüning et al., 2017, 6).
 Data governance, however, should not focus exclusively on the human component in handling data; rather, the main function of data governance is the inclusion of the three core elements of an enterprise - people, processes, and technology - into a holistic framework (Friedman, 2006). According to Newman/Logan (2006, 3), this includes decision rights, processes, standards, policies, and technologies that are required to manage, maintain, and use data as an enterprise resource. According to the Data Governance Institute, data governance is a system of decision rights and responsibilities for data-based processes executed according to established models that describe who may perform what actions with what information and when and under what circumstances using what methods (Gwen, 2006, 3).
 Takeaway(Tobi): For the technology part of Data Governance one of the mosrt important is data(-base) architecture. Important in the context of Facility management is in my humble opinion:
 - data quality assurance (some process to monitor and assure quality)
 - structuring data (what programmers do)
 - versioning data (or: please don't throw data away)
-*** 4 Different culture and tradition regarding data has emerged to different laws in different countries or unions
-**** China
+** 4 Different culture and tradition regarding data has emerged to different laws in different countries or unions
+*** China
 CHINA
 
 Recently, China approved Personal Information Protection Law (PIPL), inspired by the European model for: 
@@ -45,7 +45,7 @@ About the penalty apparatus, the fine can be up to 50 million Yuan or 5% of an o
 the first relates to the cyber security of data
 the second is the protection of the digital sovereignty of the People's Republic of China!
 This second aspect and the restrictions on data transfers to countries outside China suggest that the Chinese government aims to preserve its sovereignty from foreign interference.  
-**** USA
+*** USA
 The concept of "privacy" is a child of the American culture that already in 1890 theorized the so-called "right to be let alone. So, it seems controversial that today there is no federal law on privacy in the USA.
 
 The US approach is therefore closely related to the protection of the private sphere of individuals, but this protection has not evolved into the recognition of a law that also gives individuals the right to 'control' the circulation of their data.
@@ -55,8 +55,8 @@ This regulatory 'absence' becomes relevant in the European context when a data C
 For this reason, data transfers to entities subject to FISA 702 are no longer considered lawful and require careful assessments by European data controllers.
 
 In the healthcare field, the USA adopted in 1996 the Health Insurance Portability and Accountability Act (HIPAA). It's a federal law that defines the requirements for the treatment of health data of private individuals. Senators have recently introduced the Health Data Use and Privacy Commission Act to modernize health data use and privacy policies. This legislation is now inadequate for current technologies (apps and wearable devices) because it covers interactions between doctor and patient but does not protect health data patients record on those tools – potentially putting the information at risk. Just last September, the U.S. Federal Trade Commission declared that connected devices and health apps that use or collect consumer health information must notify the data breach to users, providing potential penalties of up to $43,792 per day.
-**** Quick Research Question: What is the approach to data protection in europe? (10 min)
-**** EUROPE
+*** Quick Research Question: What is the approach to data protection in europe? (10 min)
+*** EUROPE
 
 The entry of EU Regulation 2016/679 on data protection has allowed Europe to overcome many asymmetries created by different national regulations. 
 
@@ -66,7 +66,7 @@ The essential points of the legislation are: 
 
 The principle of accountability, whereby Data Controllers are responsible for their own choices regarding data protection and must at the same time be able to demonstrate their level of compliance;
 risk approach, whereby there isn't a "to-do list" to protect data, but the Data Controller must carefully assess the risks to individuals and design a data protection system appropriate to those risks. 
-*** 5 Data in the context of Facility Management
+** 5 Data in the context of Facility Management
 - Building Data, like:
   - containing personal Data
   - not containing personal Data
@@ -81,23 +81,22 @@ risk approach, whereby there isn't a "to-do list" to protect data, but the Data 
     - https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-personal-data_en
   - Examples:
     - TODO
-**** Fragen ans Publikum:
+*** Fragen ans Publikum:
 - Where do you think lies the data used in your Use-Cases?
 - Is there Personal Data in your Use-Cases?
 - Who do you think "owns" this Data? (Quick research)
-*** 6 THE GDPR
+** 6 THE GDPR
 - To begin with, GDPR gives a direct definition of what personal data is: “anything that relates to an identifiable, living individual whether it actually identifies them or makes them identifiable”.
   https://www.scrypt.media/2019/04/03/when-gdpr-is-not-enough-who-owns-the-data/ (USE AS SCRIPT)
   https://de.wikipedia.org/wiki/Verletzung_des_Schutzes_personenbezogener_Daten
-*** 7 Ways to remove personal information in data
+** 7 Ways to remove personal information in data
 - Pseudonymisation
 - Anonymisation
-*** 8 Example Framework
-**** TODO welches ?!? haben wir hier schon was?!?
-**** TODO vervollständigen
+** 8 Example Framework
+*** TODO welches ?!? haben wir hier schon was?!?
+*** TODO vervollständigen
 - https://medium.com/alpin-io/top-10-gdpr-frameworks-ec5ad4bfdeab
-*** 9What should you take home from this?
-**** TODO folgendes vom Anfang übernehmen
--
+** 9What should you take home from this?
+*** TODO folgendes vom Anfang übernehmen
 - Be aware of your Data!
 - Be aware of the form and structure data is stored, processed or communicated!
